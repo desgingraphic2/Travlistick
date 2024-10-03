@@ -1,7 +1,7 @@
 <?php
-include("Header.php");
-include("coursel.php");
-include("asidebar.php");
+include("Templates/Header.php");
+include("Templates/coursel.php");
+include("Templates/asidebar.php");
 ?>
 
 <!-- Booking Start -->
@@ -276,5 +276,5 @@ include("asidebar.php");
 <!-- End Your Transport -->
 
 <?php
-include("footer.php")
+include("Templates/footer.php")
 ?>
